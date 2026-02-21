@@ -14,7 +14,7 @@ public class Main {
 
         Member2.main(args);
 
-        //Member3.main(args);
+        Member3.main(args);
        
         Member4.main(args); 
         
