@@ -5,13 +5,12 @@
 
 /**
  *
- * @author merinanngodly
+ * @author hannahchiou
  */
-public class Member4 {
+public class Member2 {
     
     public static void main(String[] args) {
 
-        System.out.println("Hello from Member 4!");
-
+        System.out.println("Hello from Member 2!");
     }
 }
