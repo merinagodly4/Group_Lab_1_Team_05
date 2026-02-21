@@ -7,10 +7,12 @@
  *
  * @author hannahchiou
  */
-class Member2 {
+public class Member2 {
 
-    static void main(String[] args) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    public static void main(String[] args) {
+        
+        System.out.println("Hello from Member 2!");
+
     }
     
 }
